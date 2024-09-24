@@ -1,12 +1,16 @@
 # 💫 About Me
 
-<h2 style="font-size: 20px;">Hi, I'm Pavankumar!</h2>
+<p style="text-align: center; font-size: 30px; color: yellow;">Hi, I'm Pavankumar!</p>
 
 🎓 **MCA Graduate | Software Developer**
 
-Hello! I’m a passionate software developer with a Master of Computer Applications degree. I thrive on turning innovative ideas into reality through code. With a strong foundation in web development and machine learning, I’m dedicated to building impactful applications that solve real-world problems.
+Hello! I’m a passionate software developer with a Master of Computer Applications degree.
+I thrive on turning innovative ideas into reality through code. 
+With a strong foundation in web development and machine learning,
+I’m dedicated to building impactful applications that solve real-world problems.
 
 🚀 Whether it’s creating user-friendly web applications or diving into the intricacies of machine learning, I’m always eager to learn and explore new technologies. Let's connect and collaborate on exciting projects!
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mr.perfect_tom?igsh=MWJkNnYyZWE3OXB0Mw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/pavan-tippakkanavar/) 
