@@ -1,15 +1,15 @@
 # 💫 About Me
 
-<p style="text-align: center; font-size: 30px; color: yellow;">Hi, I'm Pavankumar!</p>
+<h1 style="text-align: center; font-size: 30px; color: yellow;">Hi, I'm Pavankumar!</h1>
 
 🎓 **MCA Graduate | Software Developer**
 
-Hello! I’m a passionate software developer with a Master of Computer Applications degree.
-I thrive on turning innovative ideas into reality through code. 
-With a strong foundation in web development and machine learning,
-I’m dedicated to building impactful applications that solve real-world problems.
+- I’m a passionate software developer with a Master of Computer Applications degree.
+- I thrive on turning innovative ideas into reality through code.
+- I have a strong foundation in web development and machine learning.
+- I’m dedicated to building impactful applications that solve real-world problems.
 
-🚀 Whether it’s creating user-friendly web applications or diving into the intricacies of machine learning, I’m always eager to learn and explore new technologies. Let's connect and collaborate on exciting projects!
+🚀Let's connect and collaborate on exciting projects!
 
 
 ## 🌐 Socials:
