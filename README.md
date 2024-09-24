@@ -9,7 +9,7 @@
 - I have a strong foundation in web development and machine learning.
 - I’m dedicated to building impactful applications that solve real-world problems.
 
-🚀Let's connect and collaborate on exciting projects!
+🚀 Let's connect and collaborate on exciting projects!
 
 
 ## 🌐 Socials:
